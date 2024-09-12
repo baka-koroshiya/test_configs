@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user>
+    <field id="analyticsConsents">
+        <struct>
+            <item id="necessary">accepted</item>
+            <item id="optional">declined</item>
+        </struct>
+    </field>
+    <field id="avatarFileName">avatar.png</field>
+    <field id="name">System Administrator</field>
+</user>
